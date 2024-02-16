@@ -1,4 +1,4 @@
-# hrd-net
+# hrd-net 이해
 HRD-Net의 이해
 
   <br>
