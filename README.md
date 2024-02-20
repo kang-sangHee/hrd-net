@@ -1,5 +1,5 @@
 # hrd-net 이해
-HRD-Net의 이해
+
 
   <br>
    	<a href="https://drive.google.com/file/d/16SE3QMQJRY2pfODEDF9kKdaY8MsgQknA/view?usp=sharing" target="_blank">강의 교안_1 </a>
